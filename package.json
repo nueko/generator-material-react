@@ -7,7 +7,7 @@
     "url": "git+https://github.com/leftstick/generator-material-react.git"
   },
   "engines": {
-    "node": ">=7.0",
+    "node": ">=6.0",
     "npm": ">=3.0"
   },
   "files": [
